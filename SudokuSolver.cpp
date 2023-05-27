@@ -1,6 +1,6 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-#include<vector>
+
 class Solution {
 public:
 bool isvalid(int row, int col, char x,vector<vector<char>> &A)
